@@ -1,0 +1,37 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: "Roboto", sans-serif;
+}
+
+.summary {
+  background-color: #374457;
+  padding: 20px;
+}
+
+.name {
+  color: white;
+  margin: 0;
+}
+.about-me {
+  color: #bfbfbf;
+}
+.one-line-summary {
+  color: #ea5144;
+}
+.info-bar {
+  text-align: center;
+  background-color: #2c343f;
+}
+
+.info-bar span {
+  color: white;
+  display: inline-block;
+  padding: 5px;
+}
+.info-bar i {
+  margin: 5px;
+  color: silver;
+}
